@@ -5,7 +5,7 @@
 - [2018] [Laboratorio di programmazione](https://github.com/simonesilvetti/teaching_2018_units_dmg_python) (with L. Nenzi), DMG, Università di Trieste
 - [2017] [Laboratorio di programmazione](https://github.com/simonesilvetti/teaching_2017_units_dmg_python) (with L. Nenzi), DMG, Università di Trieste
 
-## Developing
+## Tools
 
 - [pyCheck](https://github.com/simonesilvetti/pyCheck) - a tool for STL/STREL monitoring, (see. [TACAS 18](https://link.springer.com/chapter/10.1007/978-3-319-89963-3_23))
 - [MoonLight](https://github.com/Quanticol/MoonLight/) - a light-weight Java-tool for monitoring temporal, spatial and spatio-temporal properties
